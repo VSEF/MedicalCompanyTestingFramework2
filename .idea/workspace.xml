@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="1fb1001b-eabc-4a69-b803-62e49c9122ed" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/running/RunCukesTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/running/RunCukesTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -286,19 +287,41 @@
       <option name="project" value="LOCAL" />
       <updated>1580298199138</updated>
     </task>
-    <option name="localTasksCounter" value="17" />
+    <task id="LOCAL-00017" summary="small restructuring">
+      <created>1580298376512</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1580298376512</updated>
+    </task>
+    <task id="LOCAL-00018" summary="small restructuring">
+      <created>1580298385252</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1580298385252</updated>
+    </task>
+    <task id="LOCAL-00019" summary="small restructuring">
+      <created>1580298391615</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1580298391615</updated>
+    </task>
+    <option name="localTasksCounter" value="20" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Project created" />
     <MESSAGE value="tiny changes" />
-    <option name="LAST_COMMIT_MESSAGE" value="tiny changes" />
+    <MESSAGE value="small restructuring" />
+    <option name="LAST_COMMIT_MESSAGE" value="small restructuring" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="0" y="23" width="1792" height="1028" key="CommitChangelistDialog2" timestamp="1580298385135">
+    <state x="0" y="23" width="1792" height="1028" key="CommitChangelistDialog2" timestamp="1580298391500">
       <screen x="0" y="0" width="1792" height="1120" />
     </state>
-    <state x="0" y="23" key="CommitChangelistDialog2/0.0.1792.1120@0.0.1792.1120" timestamp="1580298385135" />
+    <state x="0" y="23" key="CommitChangelistDialog2/0.0.1792.1120@0.0.1792.1120" timestamp="1580298391500" />
     <state x="0" y="23" width="1792" height="1028" key="CommitChangelistDialog2/0.23.1792.1028@0.23.1792.1028" timestamp="1580281800213" />
     <state x="681" y="465" key="Github.ShareDialog" timestamp="1580281593216">
       <screen x="0" y="0" width="1792" height="1120" />
@@ -328,10 +351,10 @@
     <state width="1750" height="318" key="GridCell.Tab.0.right/0.0.1792.1120@0.0.1792.1120" timestamp="1580280820471" />
     <state width="1750" height="318" key="GridCell.Tab.0.right/0.23.1792.1022@0.23.1792.1022" timestamp="1580297922658" />
     <state width="831" height="318" key="GridCell.Tab.0.right/0.23.1792.1026@0.23.1792.1026" timestamp="1580109075625" />
-    <state x="496" y="301" key="Vcs.Push.Dialog.v2" timestamp="1580298201261">
+    <state x="496" y="301" key="Vcs.Push.Dialog.v2" timestamp="1580298393891">
       <screen x="0" y="0" width="1792" height="1120" />
     </state>
-    <state x="496" y="301" key="Vcs.Push.Dialog.v2/0.0.1792.1120@0.0.1792.1120" timestamp="1580298201261" />
+    <state x="496" y="301" key="Vcs.Push.Dialog.v2/0.0.1792.1120@0.0.1792.1120" timestamp="1580298393891" />
     <state x="679" y="346" key="chooseDestDirectoryDialog" timestamp="1580106123154">
       <screen x="0" y="0" width="1792" height="1120" />
     </state>
