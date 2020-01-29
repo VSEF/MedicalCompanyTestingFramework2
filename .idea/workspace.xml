@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="1fb1001b-eabc-4a69-b803-62e49c9122ed" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/running/Home_Page.feature" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/features/Home_Page.feature" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/test/java/running/RunCukesTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/running/RunCukesTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -239,7 +238,14 @@
       <option name="project" value="LOCAL" />
       <updated>1580296726977</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="tiny changes">
+      <created>1580296876795</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1580296876795</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -248,10 +254,10 @@
     <option name="LAST_COMMIT_MESSAGE" value="tiny changes" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="0" y="0" width="1792" height="1028" key="CommitChangelistDialog2" timestamp="1580296726870">
+    <state x="0" y="0" width="1792" height="1028" key="CommitChangelistDialog2" timestamp="1580296876669">
       <screen x="0" y="0" width="1792" height="1120" />
     </state>
-    <state x="0" y="0" key="CommitChangelistDialog2/0.0.1792.1120@0.0.1792.1120" timestamp="1580296726870" />
+    <state x="0" y="0" key="CommitChangelistDialog2/0.0.1792.1120@0.0.1792.1120" timestamp="1580296876669" />
     <state x="0" y="23" width="1792" height="1028" key="CommitChangelistDialog2/0.23.1792.1028@0.23.1792.1028" timestamp="1580281800213" />
     <state x="681" y="465" key="Github.ShareDialog" timestamp="1580281593216">
       <screen x="0" y="0" width="1792" height="1120" />
@@ -277,10 +283,10 @@
     </state>
     <state width="1750" height="318" key="GridCell.Tab.0.right/0.0.1792.1120@0.0.1792.1120" timestamp="1580280820471" />
     <state width="831" height="318" key="GridCell.Tab.0.right/0.23.1792.1026@0.23.1792.1026" timestamp="1580109075625" />
-    <state x="496" y="301" key="Vcs.Push.Dialog.v2" timestamp="1580296728741">
+    <state x="496" y="301" key="Vcs.Push.Dialog.v2" timestamp="1580296879417">
       <screen x="0" y="0" width="1792" height="1120" />
     </state>
-    <state x="496" y="301" key="Vcs.Push.Dialog.v2/0.0.1792.1120@0.0.1792.1120" timestamp="1580296728741" />
+    <state x="496" y="301" key="Vcs.Push.Dialog.v2/0.0.1792.1120@0.0.1792.1120" timestamp="1580296879417" />
     <state x="679" y="346" key="chooseDestDirectoryDialog" timestamp="1580106123154">
       <screen x="0" y="0" width="1792" height="1120" />
     </state>
