@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="1fb1001b-eabc-4a69-b803-62e49c9122ed" name="Default Changelist" comment="" />
+    <list default="true" id="1fb1001b-eabc-4a69-b803-62e49c9122ed" name="Default Changelist" comment="Project created">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -16,6 +19,14 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="hiddenUrls">
+      <set>
+        <option value="git@github.com:VSEF/MedicalCompanyTestingFramework.git" />
+        <option value="https://github.com/VSEF/MedicalCompanyTestingFramework2.git" />
+      </set>
+    </option>
   </component>
   <component name="ProjectId" id="1WxwlaSVi5MpryOJMhAcc01XtBv" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -155,12 +166,32 @@
       <option name="presentableId" value="Default" />
       <updated>1580104705546</updated>
     </task>
+    <task id="LOCAL-00001" summary="Project created">
+      <created>1580281839628</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1580281839628</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Project created">
+      <created>1580282432551</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1580282432551</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Project created" />
+    <option name="LAST_COMMIT_MESSAGE" value="Project created" />
+  </component>
   <component name="WindowStateProjectService">
-    <state x="0" y="23" width="1792" height="1028" key="CommitChangelistDialog2" timestamp="1580281800213">
-      <screen x="0" y="23" width="1792" height="1028" />
+    <state x="0" y="0" width="1792" height="1028" key="CommitChangelistDialog2" timestamp="1580282432448">
+      <screen x="0" y="0" width="1792" height="1120" />
     </state>
+    <state x="0" y="0" key="CommitChangelistDialog2/0.0.1792.1120@0.0.1792.1120" timestamp="1580282432448" />
     <state x="0" y="23" width="1792" height="1028" key="CommitChangelistDialog2/0.23.1792.1028@0.23.1792.1028" timestamp="1580281800213" />
     <state x="681" y="465" key="Github.ShareDialog" timestamp="1580281593216">
       <screen x="0" y="0" width="1792" height="1120" />
@@ -186,6 +217,10 @@
     </state>
     <state width="1750" height="318" key="GridCell.Tab.0.right/0.0.1792.1120@0.0.1792.1120" timestamp="1580280820471" />
     <state width="831" height="318" key="GridCell.Tab.0.right/0.23.1792.1026@0.23.1792.1026" timestamp="1580109075625" />
+    <state x="496" y="301" key="Vcs.Push.Dialog.v2" timestamp="1580282435029">
+      <screen x="0" y="0" width="1792" height="1120" />
+    </state>
+    <state x="496" y="301" key="Vcs.Push.Dialog.v2/0.0.1792.1120@0.0.1792.1120" timestamp="1580282435029" />
     <state x="679" y="346" key="chooseDestDirectoryDialog" timestamp="1580106123154">
       <screen x="0" y="0" width="1792" height="1120" />
     </state>

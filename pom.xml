@@ -8,6 +8,38 @@
     <artifactId>MedicalCompanyTestingFramework</artifactId>
     <version>1.0-SNAPSHOT</version>
 
+    <properties>
+
+        <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
+        <java.verson>1.8</java.verson>
+        <junit.jupiter.version>5.0.0-M3</junit.jupiter.version>
+        <junit.platform.version>1.0.0-M3</junit.platform.version>
+
+    </properties>
+
+    <build>
+
+        <plugins>
+
+            <plugin>
+
+                <artifactId>maven-compiler-plugin</artifactId>
+                <version>3.1</version>
+                <configuration>
+                    <source>
+                        ${java.verson}
+                    </source>
+                    <target>
+                        ${java.verson}
+                    </target>
+                </configuration>
+
+            </plugin>
+
+        </plugins>
+
+    </build>
+
     <dependencies>
         <dependency>
             <groupId>org.seleniumhq.selenium</groupId>
