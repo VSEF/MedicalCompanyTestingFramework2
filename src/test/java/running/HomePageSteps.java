@@ -1,4 +1,4 @@
-package homepage_steps;
+package running;
 
 import cucumber.api.PendingException;
 import cucumber.api.java.en.And;
